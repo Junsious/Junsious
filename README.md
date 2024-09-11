@@ -1,4 +1,5 @@
-[![Junsious's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=junsious&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Junsious's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=junsious&theme=github-compactcustom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Junsious&theme=aura)   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Junsious&theme=aura)       ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Junsious&theme=aura) 
 
 
