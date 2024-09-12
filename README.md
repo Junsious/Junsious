@@ -2,6 +2,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Junsious&theme=aura)   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Junsious&theme=aura)       ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Junsious&theme=aura) 
 
+![1kt1](https://github.com/user-attachments/assets/047fd513-0d63-4b6e-99bf-5abbab37dfe2)
 
 ---
 <div>
@@ -30,6 +31,4 @@
 <a href="http://www.github.com/junsious"><img src="https://github-readme-streak-stats.herokuapp.com/?user=junsious&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
                     
-
-![1kt1](https://github.com/user-attachments/assets/047fd513-0d63-4b6e-99bf-5abbab37dfe2)
 
