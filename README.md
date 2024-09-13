@@ -5,6 +5,7 @@
 ![1kt1](https://github.com/user-attachments/assets/047fd513-0d63-4b6e-99bf-5abbab37dfe2)
 
 ---
+### Languages  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="100" height="100"/>&nbsp;
