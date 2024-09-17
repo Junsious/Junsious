@@ -8,7 +8,8 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Junsious&theme=tokyonight" alt="GitHub Streak" /></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junsious&show_icons=true&theme=tokyonight)
 
-![1kt1](https://github.com/user-attachments/assets/047fd513-0d63-4b6e-99bf-5abbab37dfe2)
+![steamuserimages-a akamaihd](https://github.com/user-attachments/assets/3cbc2922-84d4-4b3c-8204-c6486bf795d4)
+
 
 ---
 ### Languages  
