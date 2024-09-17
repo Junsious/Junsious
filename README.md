@@ -37,5 +37,6 @@
 
 
                     
-
+  <a href="https://github.com/Junsious/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 ![malchik-zont-dozhd-gorod](https://github.com/user-attachments/assets/d7e6ea96-e95f-400e-893c-fdfffab632cf)
