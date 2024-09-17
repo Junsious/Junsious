@@ -1,7 +1,5 @@
 [![Junsious's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=junsious&theme=rogue&custom_title=Junsious&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Junsious&theme=aura)       ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Junsious&theme=aura) 
-
 ![1kt1](https://github.com/user-attachments/assets/047fd513-0d63-4b6e-99bf-5abbab37dfe2)
 
 ---
