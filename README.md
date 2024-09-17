@@ -5,19 +5,7 @@
         
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junsious&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-        
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=junsious&theme=dark&background=000000)](https://git.io/streak-stats)
-
     
-
-   
-
-
-
-    
-
 
 ![1kt1](https://github.com/user-attachments/assets/047fd513-0d63-4b6e-99bf-5abbab37dfe2)
 
