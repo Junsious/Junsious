@@ -5,8 +5,7 @@
         
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junsious&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Junsious&theme=tokyonight)](https://git.io/streak-stats)
-    
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Junsious&theme=tokyonight" alt="GitHub Streak" /></a>
 
 ![1kt1](https://github.com/user-attachments/assets/047fd513-0d63-4b6e-99bf-5abbab37dfe2)
 
