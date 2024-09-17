@@ -34,5 +34,5 @@
 
 
 
-
+[![Image of https://github.com/Junsious/my-profile-views-counter](https://github.com/Junsious/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Junsious/my-profile-views-counter)
 ![malchik-zont-dozhd-gorod](https://github.com/user-attachments/assets/d7e6ea96-e95f-400e-893c-fdfffab632cf)
