@@ -1,8 +1,9 @@
+<b>Stats</b>
 [![Junsious's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=junsious&theme=rogue&custom_title=Junsious&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
         
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junsious&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junsious&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) <a href="http://www.github.com/junsious"><img src="https://github-readme-streak-stats.herokuapp.com/?user=junsious&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
     
 
@@ -31,8 +32,6 @@
 <p align="left"> <a href="https://discord.com/users/junsious" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="50" height="50" /> </picture> </a> <a href="https://www.github.com/junsious" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" /> </picture> </a></p>
 
 
-
-<b>Stats</b>
 
 
 <a href="http://www.github.com/junsious"><img src="https://github-readme-streak-stats.herokuapp.com/?user=junsious&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
