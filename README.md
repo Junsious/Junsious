@@ -1,6 +1,6 @@
 [![Junsious's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=junsious&theme=rogue&custom_title=Junsious&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-junsious)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junsious)](https://github.com/anuraghazra/github-readme-stats)
 
 ![1kt1](https://github.com/user-attachments/assets/047fd513-0d63-4b6e-99bf-5abbab37dfe2)
 
