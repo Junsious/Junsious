@@ -3,7 +3,7 @@
 
 - I'm a Programmer Enthusiast who likes make PC utilities
 - I’m currently learning how to code properly
-- 🏠 Kindly join my discord [Discord](https://discord.gg/VCYev4Yh7j)
+- Kindly join my discord [Discord](https://discord.gg/VCYev4Yh7j)
 ---
 
 ### My Stats : 
