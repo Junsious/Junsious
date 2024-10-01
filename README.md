@@ -1,4 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=Junsious&style=for-the-badge&color=blueviolet)
+---
+
+- I'm a Programmer Enthusiast who likes make PC utilities
+- I’m currently learning how to code properly
+- 🏠 Kindly join my discord [Discord](https://discord.gg/VCYev4Yh7j)
+---
+
 ### My Stats : 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Junsious&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
