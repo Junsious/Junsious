@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Junsious&style=for-the-badge&color=blueviolet)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Junsious&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="JaKooLit" /> </p> 
 
 
 <h3 align="center">
