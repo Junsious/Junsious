@@ -22,7 +22,7 @@
 
 ---
 
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚕𝚜𝚘 𝚜𝚞𝚙𝚙𝚘𝚝 𝚖𝚎  
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚕𝚜𝚘 𝚜𝚞𝚙𝚙𝚘𝚝 𝚖𝚎 <3  
 
 [![image](https://github.com/user-attachments/assets/a219ccc6-7ec0-45fc-a65c-72cfda5c0476)
 ](https://www.donationalerts.com/r/junsious)
