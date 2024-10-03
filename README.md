@@ -14,6 +14,8 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Junsious&theme=tokyonight" alt="GitHub" /></a>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Junsious&show_icons=true&theme=tokyonight)
 
+---
+You can also suppot me
 
 [![image](https://github.com/user-attachments/assets/a219ccc6-7ec0-45fc-a65c-72cfda5c0476)
 ](https://www.donationalerts.com/r/junsious)
