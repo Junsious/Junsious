@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Junsious&label=Profile%20views&color=#7e5b9b&size=24&style=flat" alt="JaKooLit" /> </p> 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Junsious&label=Profile%20views&color=7e5b9b&size=24&style=flat" alt="JaKooLit" /> </p> 
 
 
 <h3 align="center">
