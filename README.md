@@ -26,3 +26,8 @@
 
 [![image](https://github.com/user-attachments/assets/a219ccc6-7ec0-45fc-a65c-72cfda5c0476)
 ](https://www.donationalerts.com/r/junsious)
+
+---
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=1600&height=80&duration=5000&color=9f58db&lines=Have!+a+nice+day!+" />
+</h3>
