@@ -13,3 +13,6 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Junsious&theme=tokyonight" alt="GitHub" /></a>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Junsious&show_icons=true&theme=tokyonight)
+
+
+[donationalerts](https://www.donationalerts.com/r/junsious)
