@@ -2,7 +2,7 @@
 
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=1600&height=80&duration=5000&color=9f58db&lines=Hello!+I'm+Junsious+" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=1600&height=80&duration=5000&color=565f89&lines=Hello!+I'm+Junsious+" />
 </h3>
 
 ---
