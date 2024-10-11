@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Junsious&label=Profile%20views&color=9d7cd8&size=24&style=for-the-badge" alt="Junsious" /> </p> 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Junsious&label=Profile%20views&color=9d7cd8&size=20&style=for-the-badge" alt="Junsious" /> </p> 
 
 
 <h3 align="center">
