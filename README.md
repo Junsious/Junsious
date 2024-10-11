@@ -7,9 +7,9 @@
 
 ---
 
--  ᗜˬᗜ I'm a Programmer Enthusiast who likes make PC utilities
--  ᗜˬᗜ I’m currently learning how to code properly
-- ᗜˬᗜ Join my [Discord](https://discord.gg/VCYev4Yh7j)
+-  💾 I'm a Programmer Enthusiast who likes make PC utilities
+-  📗 I’m currently learning how to code properly
+- 🏠 Join my [Discord](https://discord.gg/VCYev4Yh7j)
 ---
 
 ### 📶 My Stats : 
