@@ -9,7 +9,7 @@
 
 - 💾 I'm a Programmer Enthusiast who likes make PC utilities
 - 📗 I’m currently learning how to code properly
-  
+-  [https://img.icons8.com/?size=100&id=86982&format=png&color=000000] join my discord [Discord](https://discord.gg/VCYev4Yh7j)
 ---
 
 ### 📶 My Stats : 
