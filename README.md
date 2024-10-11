@@ -17,7 +17,7 @@
         
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junsious&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Junsious&theme=tokyonight" alt="GitHub" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Junsious&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
 
 ---
 
