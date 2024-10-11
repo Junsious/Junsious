@@ -9,7 +9,7 @@
 
 - 💾 I'm a Programmer Enthusiast who likes make PC utilities
 - 📗 I’m currently learning how to code properly
-- join my discord [Discord](https://discord.gg/VCYev4Yh7j)
+- ᗜˬᗜ Join my discord [Discord](https://discord.gg/VCYev4Yh7j)
 ---
 
 ### 📶 My Stats : 
