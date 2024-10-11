@@ -24,7 +24,8 @@
 
 ### 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚕𝚜𝚘 𝚜𝚞𝚙𝚙𝚘𝚝 𝚖𝚎 :3  
 
-[![donate](https://github.com/user-attachments/assets/cf066ab8-8460-4f3d-87b7-5649e6749696)](https://www.donationalerts.com/r/junsious)
+[![donate](![image (1)](https://github.com/user-attachments/assets/447c4016-16fd-4e52-8e24-318545a874a0)
+)](https://www.donationalerts.com/r/junsious)
 
 ---
 
