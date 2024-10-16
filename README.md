@@ -28,8 +28,6 @@
 ](https://www.donationalerts.com/r/junsious)
 
 ---
-![github contribution grid snake animation](https://raw.githubusercontent.com/Junsious/Junsious/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/Junsious/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=1600&height=80&duration=5000&color=9d7cd8&lines=Have+a+nice+day!+" />
