@@ -33,4 +33,3 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=1600&height=80&duration=5000&color=9d7cd8&lines=Have+a+nice+day!+" />
 </h3>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Junsious&theme=dark)](https://git.io/streak-stats)
