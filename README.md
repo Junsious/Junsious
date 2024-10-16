@@ -28,6 +28,7 @@
 ](https://www.donationalerts.com/r/junsious)
 
 ---
+![github contribution grid snake animation](https://raw.githubusercontent.com/Junsious/Junsious/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/Junsious/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 <h3 align="center">
