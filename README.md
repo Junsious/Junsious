@@ -25,7 +25,7 @@
 
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Junsious&theme=tokyonight) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junsious&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Junsious&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junsious&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Junsious&theme=tokyonight&utcOffset=3)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Junsious&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
 
