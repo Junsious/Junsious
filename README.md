@@ -6,10 +6,11 @@
 </h3>
 
 ---
-
 -  💾 I'm a Programmer Enthusiast who likes make PC utilities
 -  📗 I’m currently learning how to code properly
 ---
+### 🔨 Languages and tools :
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" title="rust" width="40" height="40"/>&nbsp;
 
 ### 📶 My Stats : 
 
