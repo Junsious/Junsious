@@ -9,7 +9,6 @@
 
 -  💾 I'm a Programmer Enthusiast who likes make PC utilities
 -  📗 I’m currently learning how to code properly
--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
 ---
 
 ### 📶 My Stats : 
