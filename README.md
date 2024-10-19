@@ -6,10 +6,10 @@
 </h3>
 
 ---
--  💾 I'm a Programmer Enthusiast who likes make PC utilities
--  📗 I’m currently learning how to code properly
+-  I'm a Programmer Enthusiast who likes make PC utilities
+-  I’m currently learning how to code properly
 ---
-### 🔨 Languages and tools :
+### Languages and tools :
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" title="rust" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="vsc" width="40" height="40"/>&nbsp;
@@ -23,7 +23,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="linux" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" title="firefox" width="40" height="40"/>&nbsp;
 
-### 📶 My Stats : 
+### My Stats : 
 
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Junsious&theme=tokyonight) 
 
