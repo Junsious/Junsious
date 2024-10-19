@@ -31,7 +31,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Junsious&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Junsious&theme=tokyonight&utcOffset=3)
 ---
 
 ### 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚕𝚜𝚘 𝚜𝚞𝚙𝚙𝚘𝚝 𝚖𝚎 :3  
