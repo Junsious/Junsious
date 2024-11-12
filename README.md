@@ -6,7 +6,7 @@
 </h3>
 
 ---
--  I'm a Programmer Enthusiast who likes make PC utilities
+-  Security/Software Engineer
 -  I’m currently learning how to code properly
 ---
 ### Languages and tools :
