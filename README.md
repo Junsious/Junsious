@@ -8,6 +8,7 @@
 ---
 -  Security/Software Engineer
 -  I’m currently learning how to code properly
+-  Discord: junsious
 ---
 ### Languages and tools :
 
