@@ -35,4 +35,4 @@
 ](https://www.donationalerts.com/r/junsious)
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,qt,css,linux,neovim,py,html,vscode,cmake,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,qt,css,linux,neovim,py,html,vscode,cmake,&theme=dark)](https://skillicons.dev)
