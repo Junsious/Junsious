@@ -33,3 +33,4 @@
 
 [![donate](https://github.com/user-attachments/assets/95b28df1-cfbb-4b09-ac09-ce5e5ab3c3e3)
 ](https://www.donationalerts.com/r/junsious)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
