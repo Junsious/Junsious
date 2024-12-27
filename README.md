@@ -27,3 +27,10 @@
 [![donate](https://github.com/user-attachments/assets/95b28df1-cfbb-4b09-ac09-ce5e5ab3c3e3)
 ](https://www.donationalerts.com/r/junsious)
 
+---
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/yyle88/yyle88/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/yyle88/yyle88/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+---
