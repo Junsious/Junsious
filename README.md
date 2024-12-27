@@ -12,15 +12,8 @@
 ---
 ### Languages and tools :
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" title="rust" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="vsc" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" title="NeoVim" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nano/nano-plain-wordmark.svg" title="nano" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" title="C" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" title="C++" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" title="Qt" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opensuse/opensuse-original.svg" title="opensuse" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
+[](https://skillicons.dev/icons?i=rust,c,cpp,bash,qt,css,linux,neovim,py,html,vscode,cmake,&theme=dark)](https://skillicons.dev)
+
 
 ### My Stats : 
 
@@ -34,5 +27,3 @@
 [![donate](https://github.com/user-attachments/assets/95b28df1-cfbb-4b09-ac09-ce5e5ab3c3e3)
 ](https://www.donationalerts.com/r/junsious)
 
-
-[![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,bash,qt,css,linux,neovim,py,html,vscode,cmake,&theme=dark)](https://skillicons.dev)
