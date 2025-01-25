@@ -6,7 +6,7 @@
 ---
 ### Languages and tools :
 
-[![](https://skillicons.dev/icons?i=rust,cpp,bash,qt,css,linux,neovim,py,html,&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=rust,cpp,py,bash,qt,css,linux,neovim,html,&theme=dark)](https://skillicons.dev)
 
 
 ### My Stats : 
