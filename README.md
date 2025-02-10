@@ -2,7 +2,7 @@
 
 ---
 -  Backend / DevOps developer 
--  Discord: junsious
+-  Discord: kqueej
 ---
 ### Languages and tools :
 
