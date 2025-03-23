@@ -1,4 +1,3 @@
----
 -  Backend / DevOps developer 
 -  Discord: kqueej
 ---
