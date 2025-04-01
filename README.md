@@ -8,4 +8,4 @@
 
 ### My Stats : 
 [![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Junsious&theme=github_dark)  
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Junsious&theme=tokyonight)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name})
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Junsious&theme=github_dark)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Junsious&theme=github_dark)
