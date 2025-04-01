@@ -9,4 +9,3 @@
 ### My Stats : 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Junsious&theme=solarized_dark)  
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Junsious&theme=solarized_dark)
-![Top Repo Language]([http://github-profile-summary-cards.vercel.app/api/cards/profile-details?](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?)username=Junsious&theme=solarized_dark)
