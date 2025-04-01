@@ -3,7 +3,7 @@
 ---
 ### Languages and tools :
 
-[![](https://skillicons.dev/icons?i=rust,py,go,bash,bots,powershell,css,html,git,mysql,graphql,docker,postgresql,linux&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=rust,py,go,bash,bots,powershell,css,html,git,mysql,graphql,docker,postgresql,linux&theme=forest)](https://skillicons.dev)
 
 
 ### My Stats : 
