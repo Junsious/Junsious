@@ -1,7 +1,7 @@
 -  Backend / DevOps developer 
 -  Discord: kqueej
 ---
-### Languages and tools :
+### Languages
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -9,6 +9,12 @@
   </a>
 </p>
 
+### Tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=powershell,git,mysql,docker,neovim,linux,clion,rustrover,pycharm&theme=dark" />
+  </a>
+</p>
 
 ### My Stats : 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Junsious&theme=solarized_dark) ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Junsious&theme=solarized-dark&show_icons=true&hide_border=true&layout=compact)
