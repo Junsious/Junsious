@@ -3,6 +3,12 @@
 ---
 ### Languages and tools :
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,py,go,cpp,bash,bots,powershell,git,mysql,docker,linux&theme=dark" />
+  </a>
+</p>
+
 [![](https://skillicons.dev/icons?i=rust,py,go,cpp,bash,bots,powershell,git,mysql,docker,linux&theme=dark)](https://skillicons.dev)
 
 
