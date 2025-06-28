@@ -17,6 +17,5 @@
 </p>
 
 ### My Stats : 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Junsious&theme=solarized-dark&show_icons=true&hide_border=true&layout=compact)
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Junsious&theme=solarized_dark)
 ![GitHub Stats](https://streak-stats.demolab.com?user=Junsious&theme=solarized-dark&hide_border=true)
