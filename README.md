@@ -9,8 +9,6 @@
   </a>
 </p>
 
-[![](https://skillicons.dev/icons?i=rust,py,go,cpp,bash,bots,powershell,git,mysql,docker,linux&theme=dark)](https://skillicons.dev)
-
 
 ### My Stats : 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Junsious&theme=solarized_dark) ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Junsious&theme=solarized-dark&show_icons=true&hide_border=true&layout=compact)
