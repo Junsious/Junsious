@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,py,go,cpp,bash,bots,powershell,git,mysql,docker,nvim,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=rust,py,go,cpp,bash,bots,powershell,git,mysql,docker,neovim,linux&theme=dark" />
   </a>
 </p>
 
