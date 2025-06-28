@@ -12,7 +12,7 @@
 ### Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powershell,git,mysql,docker,neovim,linux,clion,rustrover,pycharm&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=powershell,git,mysql,docker,neovim,linux,clion,pycharm&theme=dark" />
   </a>
 </p>
 
